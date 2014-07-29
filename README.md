@@ -1,16 +1,19 @@
 Portfolio
-=========
-<!DOCTYPE html> 
-<head>
-  <title>Cassandra Castelant</title>
-  <style>
-    body {
+========
+<DOCTYPE html>
+<html>
+  <head>  
+    <style>
+      body {
       text-align: center;
-      background: url("http://www.agreenerfestival.com/wp-content/uploads/space-hubble.jpg");
       background-size: cover;
       background-position: center;
       color: white;
-      font-family: Times;
+      font-family: Impact;
+    }
+    div {
+    background-size:cover;
+    background-position:center;
     }
     p {
       font-size: 32px;
@@ -34,17 +37,13 @@ Portfolio
       text-decoration: none;
     }
   </style>
+  <title>Cassandra Castelant</title>
 </head>
 <body>
+<div> <img src="http://www.agreenerfestival.com/wp-content/uploads/space-hubble.jpg"> </div>
   <p>Welcome To My Lair</p>
-  <div><img src="http://www.shannonrealty.com/files/open_doors_transparent.gif"></div>
-  <div id="header">
-      
-    </div>
-    <div class="left"></div>
-    <div class="right">
-      <h4>Who's Dat?</h4>
-      <p id="name">Cassandra Castelant</p>
+   
+        <div><img src="http://www.shannonrealty.com/files/open_doors_transparent.gif"></div>
   <h1> Library</h1>
   <h5> My Collection Of "Great" Literary Works </h5>
   <h4> Audio</h4>
@@ -87,3 +86,4 @@ Portfolio
 </div>
  <h4> Good Bye!</h4>
 </body>
+</html>
